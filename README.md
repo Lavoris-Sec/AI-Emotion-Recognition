@@ -1,4 +1,4 @@
-# 🎭 AI Emotion Recognition (YOLOv11)
+# AI Emotion Recognition (YOLOv11)
 [![Python 3.11](https://img.shields.io/badge/Python-3.11.9-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![YOLOv11](https://img.shields.io/badge/YOLO-v11-00FF00?style=flat)](https://ultralytics.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
