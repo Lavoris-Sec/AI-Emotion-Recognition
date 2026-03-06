@@ -5,6 +5,7 @@
 
 ## 🇷🇺 Описание / Description
 **RU:** Профессиональная система распознавания 7 базовых эмоций в реальном времени. Оптимизирована для работы через веб-камеру с использованием архитектуры YOLOv11 и графического интерфейса на PyQt5. 
+
 **EN:** Professional real-time recognition system for 7 basic emotions. Optimized for webcam streams using YOLOv11 architecture and a custom PyQt5 GUI.
 
 ### ⚙️ Функционал / Features:
