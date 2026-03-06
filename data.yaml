@@ -1,0 +1,14 @@
+path: D:/emotions_project/data
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 7
+names: ['Angry', 'Disgust', 'Fear', 'Happy', 'Neutral', 'Sad', 'Surprise']
+
+roboflow:
+  workspace: doctrs-workspace
+  project: fer2013-gi9cv-rdbfr
+  version: 1
+  license: CC BY 4.0
+  url: https://app.roboflow.com/doctrs-workspace/fer2013-gi9cv-rdbfr/1
